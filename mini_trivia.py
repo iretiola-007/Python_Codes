@@ -4,8 +4,7 @@ questions = [
     ["What is 2 + 2? ", "4"],
     ["Which programming language is this quiz written in? ", "Python"],
     ["Is the sky blue? ", "Yes"],
-    ["Who is the current president of Nigeria? (full name in this order-> B. A. T.) ", "Bola Ahmed Tinubu"],
-    ["In what year did Nigerua gain her independence? ", "1960"],
+    ["In what year did Nigeria gain her independence? ", "1960"],
     ["When is democracy day in Nigeria(former)? (month date) ", "May 29"]
 ]
 
