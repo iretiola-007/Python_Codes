@@ -1,6 +1,6 @@
-# List of questions and answers 
+# List of questions 
 questions = [
-    ["What is the capital of France? "  "Paris"], 
+    ["What is the capital of France? ", "Paris"], 
     ["What is 2 + 2? ", "4"],
     ["Which programming language is this quiz written in? ", "Python"],
     ["Is the sky blue? ", "Yes"],
@@ -18,4 +18,4 @@ for q in questions:
         score += 1
     else:
         print(f"Wrong! The correct answer is {q[1]}\n")
-print("Quiz completed! You scored {score}/{len(questions)}")
+print(f"Quiz completed! You scored {score}/{len(questions)}")
